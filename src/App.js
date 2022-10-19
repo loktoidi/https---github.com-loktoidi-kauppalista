@@ -2,6 +2,8 @@ import axios from 'axios';
 import { useEffect,useState } from 'react';
 import './App.css';
 
+/*github sekoiluja taas */
+
 const URL = 'http://localhost/shoppinglist/';
 
 function App() {
